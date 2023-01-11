@@ -1,10 +1,10 @@
 { 
-    "serviços":[
-    {"nome": "mechas", "clienteId": 100, "id": 1, "preço": 2000},
-    {"nome":"Progressiva", "clienteId": 200, "id": 2, "preço": 2000},
-    {"nome":"acrigel", "clienteId": 300, "id": 3, "preço": 900},
-    {"nome":"micro", "clienteId": 400, "id": 4, "preço": 1500},
-    {"nome":"depilação", "clienteId": 500, "id": 5, "preço": 980}
+    "servicos":[
+    {"nome": "Mechas", "clienteId": 100, "id": 1, "preco": 2000},
+    {"nome":"Progressiva", "clienteId": 200, "id": 2, "preco": 2000},
+    {"nome":"Acrigel", "clienteId": 300, "id": 3, "preco": 900},
+    {"nome":"Micro", "clienteId": 400, "id": 4, "preco": 1500},
+    {"nome":"Depilacao", "clienteId": 500, "id": 5, "preco": 980}
 
   ],
   "funcionarios":[
