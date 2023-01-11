@@ -1,6 +1,6 @@
 
   {
-  "Serviços":[
+  "serviços":[
     {"nome": "mechas", "clienteId": 100, "id": 1, "preço": 2000},
     {"nome":"Progressiva", "clienteId": 200, "id": 2, "preço": 2000},
     {"nome":"acrigel", "clienteId": 300, "id": 3, "preço": 900},
