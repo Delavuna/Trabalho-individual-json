@@ -1,11 +1,12 @@
 
-  {
-  "serviços":[
+  { 
+    "serviços":[
     {"nome": "mechas", "clienteId": 100, "id": 1, "preço": 2000},
     {"nome":"Progressiva", "clienteId": 200, "id": 2, "preço": 2000},
     {"nome":"acrigel", "clienteId": 300, "id": 3, "preço": 900},
     {"nome":"micro", "clienteId": 400, "id": 4, "preço": 1500},
     {"nome":"depilação", "clienteId": 500, "id": 5, "preço": 980}
+
   ],
   "funcionarios":[
     {"nome": "Selma", "cargo": "Cabeleira", "id": 1105, "salario": 5000},
@@ -14,6 +15,7 @@
     {"nome": "Rihanna", "cargo": "Designer de Sobrancelha", "id": 2020, "salario": 4000},
     {"nome": "Pele", "cargo": "limpeza", "id": 2912, "salario": 1500},
     {"nome": "Dilma", "cargo": "Depiladora", "id": 4040, "salario": 8000}
+
   ],
   "clientes":[
     {"nome": "Neymar", "cpf": "111.111.111-11", "id": 100, "telefone": "99999-9999"},
@@ -21,5 +23,6 @@
     {"nome": "Adele", "cpf": "111.111.111-33", "id": 300, "telefone": "99999-9933"},
     {"nome": "Iza", "cpf": "111.111.111-44", "id": 400, "telefone": "99999-9944"},
     {"nome": "Beyonce", "cpf": "111.111.111-44", "id": 500, "telefone": "99999-9955"}
+    
   ]
   }
