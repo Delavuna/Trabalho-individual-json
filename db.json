@@ -1,5 +1,4 @@
-
-  { 
+{ 
     "serviços":[
     {"nome": "mechas", "clienteId": 100, "id": 1, "preço": 2000},
     {"nome":"Progressiva", "clienteId": 200, "id": 2, "preço": 2000},
@@ -23,6 +22,6 @@
     {"nome": "Adele", "cpf": "111.111.111-33", "id": 300, "telefone": "99999-9933"},
     {"nome": "Iza", "cpf": "111.111.111-44", "id": 400, "telefone": "99999-9944"},
     {"nome": "Beyonce", "cpf": "111.111.111-44", "id": 500, "telefone": "99999-9955"}
-    
+
   ]
   }
